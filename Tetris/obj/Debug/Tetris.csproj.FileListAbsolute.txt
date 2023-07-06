@@ -1,0 +1,14 @@
+c:\users\korisnik\documents\visual studio 2012\Projects\Tetris\Tetris\bin\Debug\Tetris.exe.config
+c:\users\korisnik\documents\visual studio 2012\Projects\Tetris\Tetris\bin\Debug\Tetris.exe
+c:\users\korisnik\documents\visual studio 2012\Projects\Tetris\Tetris\bin\Debug\Tetris.pdb
+c:\users\korisnik\documents\visual studio 2012\Projects\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+c:\users\korisnik\documents\visual studio 2012\Projects\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+c:\users\korisnik\documents\visual studio 2012\Projects\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+c:\users\korisnik\documents\visual studio 2012\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+c:\users\korisnik\documents\visual studio 2012\Projects\Tetris\Tetris\obj\Debug\Tetris.exe
+c:\users\korisnik\documents\visual studio 2012\Projects\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\Tetris\Tetris\bin\Debug\Interop.WMPLib.dll
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\Tetris\Tetris\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\Tetris\Tetris\obj\Debug\Interop.WMPLib.dll
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\Tetris\Tetris\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Korisnik\Documents\Visual Studio 2012\Projects\Tetris\Tetris\obj\Debug\Tetris.csproj.ResolveComReference.cache
